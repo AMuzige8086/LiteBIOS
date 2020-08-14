@@ -1,17 +1,4 @@
-Welcome to the SeaBIOS project!  This project implements an X86 legacy
-bios that is built with standard GNU tools.
-
-Please see build and developer information at:
-
-  http://seabios.org/Developer_Documentation
-
-For the impatient, SeaBIOS is built for QEMU and tested on QEMU with:
-
-  make
-  qemu -bios out/bios.bin
-
-SeaBIOS can be configured with kconfig.  To change the default
-configuration one can run "make menuconfig" prior to running "make".
-
-For other types of builds, and for more detailed developer
-documentation, please see the online documentation listed above.
+LiteBIOS는 Proton Systems IDC를 위한 오픈 소스 BIOS 시스템입니다. SeaBIOS의 포크이며 QEMU에서 사용하기 좋습니다. 실기에선 Coreboot를 이용하세요.
+컴파일은 Fun, Cool, Sexy하게 make 한줄이면 끝난답니다.
+현재는 단순 포크이지만 LiteBIOS는 점점 진보해 나갈 것입니다.
+오픈소스는 언제나 승리한다!
