@@ -1,5 +1,1 @@
-This directory contains SeaBIOS documentation as found on the SeaBIOS
-wiki.  All the files in this directory (with the exclusion of this
-README file) correspond to a page on the wiki.
-
-The documentation files use markdown syntax.
+SeaBIOS의 문서이나, LiteBIOS에서도 똑같이 사용 가능할 예정입니다(업데이트된다면 모르겠지만요.)
